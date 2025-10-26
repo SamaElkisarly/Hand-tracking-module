@@ -13,4 +13,3 @@ This repo shows the learning path (simple → module → test), and provides a r
 ## Quick Start
 ```bash
 pip install -r requirements.txt
-python src/02_test_hand_tracking.py
